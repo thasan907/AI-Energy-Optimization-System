@@ -8,6 +8,9 @@ https://ai-energy-optimization-system-algr2y5twvza9sqh8jmgde.streamlit.app
 💻 GitHub Repository:
 https://github.com/thasan907/AI-Energy-Optimization-System
 
+📹 LinkedIn Demo Video:
+https://www.linkedin.com/posts/toufique-hasan-0a7941240_artificialintelligence-machinelearning-datascience-ugcPost-7466307547059372032-13uo/
+
 ## Overview
 
 This project predicts household electricity consumption using Machine Learning and provides intelligent energy optimization insights through an interactive dashboard.
