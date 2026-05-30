@@ -104,11 +104,8 @@ model = joblib.load("models/energy_model.pkl")
 @st.cache_data
 def load_data():
     df = pd.read_csv(
-        "data/household_power_consumption.txt",
-        sep=";",
-        low_memory=False,
-        na_values=["?"]
-    )
+    "data/sample_energy_data.csv"
+)
 
     df.dropna(inplace=True)
 
