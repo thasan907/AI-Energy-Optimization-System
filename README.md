@@ -1,5 +1,13 @@
 # AI-Powered Smart Energy Optimization System
 
+## Live Demo
+
+🌐 Streamlit App:
+https://ai-energy-optimization-system-algr2y5twvza9sqh8jmgde.streamlit.app
+
+💻 GitHub Repository:
+https://github.com/thasan907/AI-Energy-Optimization-System
+
 ## Overview
 
 This project predicts household electricity consumption using Machine Learning and provides intelligent energy optimization insights through an interactive dashboard.
